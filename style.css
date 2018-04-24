@@ -9,7 +9,6 @@ body {
  line-height: 1.2;
  background-color: #cccc99;
  }
-
 h1 {
  margin-right:auto;
  margin-left:auto;
@@ -30,8 +29,6 @@ img {
  height:450px;
  text-align: center;
 }
-
-
 .column1 {
     float: left;
     width: 50%;
@@ -56,14 +53,12 @@ img {
     line-spacing:1.5em;
     text-align: left;
 }
-
 .row:after {
     content: "column2";
     display: table;
     clear: both;
 }
 </style>
-
 element.style {
     height: 450px;
     width: 100%;
